@@ -26,6 +26,6 @@ Es un template muy completo hecho en Bootstrap 5, con facilidad de diseño e int
 
 ## Licencia
 
-Asi como Laravel, LaraMatrix pretende usar la misma licencia MIT, es por eso que dejamos el siguiente texto propio de Laravel.
+LaraMatrix se concentra en la Libertad del Software Libre, por ende decidimos cambiar nuestro licenciamiento a AGPL.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Laravel y Matrix Admin Panel poseen sus propias licencias (MIT).
